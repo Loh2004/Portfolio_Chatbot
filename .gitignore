@@ -1,0 +1,28 @@
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files & logs
+*.log
+scratch/
+test_*.py
